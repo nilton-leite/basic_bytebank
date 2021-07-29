@@ -1,4 +1,4 @@
-# flutter_alura
+# Basic ByteBank
 
 A new Flutter project.
 
